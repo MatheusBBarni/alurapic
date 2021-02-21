@@ -1,0 +1,4 @@
+node_modules
+uploads/imgs/*
+package-lock.json
+yarn.lock
